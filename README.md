@@ -37,18 +37,7 @@ A modular, console-based C project that simulates a departmental store’s inven
 
 ---
 
-## 🗂️ Project Structure
-GroceryManagementSystem/
-├── main.c # Program entry point and main menu
-├── bill.c # Billing logic and invoice generation
-├── items.c # Item record handling
-├── update.c # Update item records
-├── delete.c # Delete items
-├── display.c # Display all records
-├── search.c # Search items by ID or name
-├── menu.c # User interface menus
-├── users.txt # Stores login credentials
-└── items.txt # Stores item records
+
 
 
 
